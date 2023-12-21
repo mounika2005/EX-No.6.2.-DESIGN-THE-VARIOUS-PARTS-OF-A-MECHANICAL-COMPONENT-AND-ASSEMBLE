@@ -10,6 +10,7 @@ To Design the various parts of a mechanical component and assemble it using a bo
 3. 4 GB of RAM (integrated graphics recommend 6 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
+
 ## COMMANDS USED:
 ### Align: 
 The Align tool allows you to align, distribute or organize selected elements, annotations, tags and text along the axis you specify. Furthermore, the Arrange feature will automatically neatly place your tags around the current view.
